@@ -1,0 +1,13 @@
+{
+  "name": "ultrawork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jarred Filmer",
+  "devDependencies": {
+    "electron": "^19.0.4"
+  }
+}
